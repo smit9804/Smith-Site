@@ -1,0 +1,160 @@
+body{
+    background-image: linear-gradient(#841617, #ffffbf);
+    margin: 20px;
+    border-radius: 15px;
+    background-repeat: none;
+    background-attachment: fixed;
+    font-weight: bold;
+}
+
+.red{
+    color: antiquewhite;
+    background-image: linear-gradient(red, #814617);
+}
+.orange{
+    color: #0a1195;
+    background-image: linear-gradient(orange, #cc5500);
+}
+.yellow{
+    color: #00703c;
+    background-image: linear-gradient(yellow, #daa520);
+}
+.green{
+    color: beige;
+    background-image: linear-gradient(#65ff00, green);
+}
+.blue{
+    color: antiquewhite;
+    background-image: linear-gradient(#0048ba, blue);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: column;
+    margin: 10px;
+    height: 300px;
+    width: 300px;
+    
+}
+.indigo{
+    color: antiquewhite;
+    background-image: linear-gradient(#360ccc, #4b0082);
+}
+.purple{
+    color: antiquewhite;
+    background-image: linear-gradient(purple, #512888);
+}
+.beach{
+    color: #841617;
+    background-image:linear-gradient(#0078d7, rgb(248, 226, 199));
+    border-radius: 5px;
+}
+.desert{
+    color: black;
+    background-image: linear-gradient(blue, green, #edc9af);
+}
+.ou{
+    background-image: linear-gradient(#841617, #ffffbf);
+    height: 200px;
+    margin: 20px;
+    border-radius: 15px;
+}
+
+.ou1{
+    background-image: linear-gradient(#ffffbf, #841617);
+    height: 200px;
+    margin: 20px;
+    border-radius: 15px;
+}
+.arrow{
+	color: beige;
+    background-image: linear-gradient(#65ff00, green);
+	position: relative;
+	width: fit-content;
+	left: 350px;
+	font-weight: bolder;
+	font-size: 16px;
+}
+
+.redbtn{
+    color: antiquewhite;
+    background-image: linear-gradient(red, darkred);
+    border-radius: 5px;
+    font-size: 20px;
+    border-color: red;
+    margin: 15px;
+    padding: 10px;
+    text-decoration: none;
+}
+.orangebtn{
+    color: antiquewhite;
+    background-image: linear-gradient(orange, darkorange);
+    border-radius: 5px;
+    font-size: 20px;
+    border-color: orange;
+    margin: 15px;
+    padding: 10px;
+    text-decoration: none;
+}
+.yellowbtn{
+    color: black;
+    background-image: linear-gradient(yellow, goldenrod);
+    border-radius: 5px;
+    font-size: 20px;
+    border-color: yellow;
+    margin: 15px;
+    padding: 10px;
+    text-decoration: none;
+}
+.greenbtn{
+    color: antiquewhite;
+    background-image: linear-gradient(#32cd32, forestgreen);
+    border-radius: 5px;
+    font-size: 20px;
+    border-color: #32cd32;
+    margin: 15px;
+    padding: 10px;
+    text-decoration: none;
+}
+.homebutton{
+	color: antiquewhite;
+	background-image: linear-gradient(pink, blue);
+	border-radius: 5px;
+    font-size: 20px;
+    border-color: orange;
+    margin: 15px;
+    padding: 10px;
+    text-decoration: none;
+    position: absolute;
+    right: 90px;
+}
+	
+
+.bluebtn{
+    color: antiquewhite;
+    background-image: linear-gradient(#0048ba, blue);
+    border-radius: 5px;
+    font-size: 20px;
+    border-color: #0048ba;
+    margin: 15px;
+    padding: 10px;
+    text-decoration: none;
+}
+.purplebtn{
+    color: antiquewhite;
+    background-image: linear-gradient(#512888, #360888);
+    border-radius: 5px;
+    font-size: 20px;
+    border-color: #512888;
+    margin: 15px;
+    padding: 10px;
+    text-decoration: none;
+}
+.titlehelp{
+	position: relative;
+	left: 350px;
+	height: 100px;
+	width: 200px;
+	background-color: none;
+	color: antiquewhite;
+	border-color: red;
+}
